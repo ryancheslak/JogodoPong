@@ -80,4 +80,4 @@ function verificaColisaoRaquete(x,y){
   if(colidiu){
     velocidadeXBolinha *=-1;
   }
-}swswss
+}
